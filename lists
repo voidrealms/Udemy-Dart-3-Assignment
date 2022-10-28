@@ -1,0 +1,5 @@
+var items =[];
+items.add("a");
+items.add("b");
+items.add("c");
+print(items);
